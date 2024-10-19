@@ -11,7 +11,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [funnyvideos](https://drive.google.com/file/d/1yqeAeclJRTxLKNsv26X86RVQ3VOZUu4z/view?usp=sharing) 6.86GB, 946 Videos
  - [MemeVideos](https://drive.google.com/file/d/1Zy8xcfT1-r29hNGI8ptdDaOyuxjGBDrb/view?usp=sharing) 6.58GB, 1,925 Videos
  - [UnusualVideos](https://drive.google.com/file/d/1MAWr8lOaO1x4t5Hh2hhQk8q6VAkZrWT_/view?usp=sharing) 7.67GB, 1,471 Videos
- - [cursed_videomemes](https://drive.google.com/file/d/1d74Cicv9JjlCJCZeK3AmKLduHrMCpINH/view?usp=sharing) 14.5GB, 3,811 Videos
+ - [cursed_videomemes](https://drive.google.com/file/d/1d74Cicv9JjlCJCZeK3AmKLduHrMCpINH/view?usp=sharing) 14.50GB, 3,811 Videos
  - [discordVideos](https://drive.google.com/file/d/1gwxLvVbZ5qug5v4PR5QWQuw2LzkMAmFt/view?usp=sharing) 6.80GB, 1,923 Videos
 
 
