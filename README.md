@@ -6,7 +6,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - THESE WILL BE UPDATED EVERY SO OFTEN, THERE IS NO SPICIFIC TIME OR DAY THAT I WILL UPDATE THESE!
 
 
-# If you want a [script](https://github.com/ToastedNub/Meme-Corrector) that will change the names of the memes so that nothing has the same name and tries to replace another meme (READ THE README)
+# This [script](https://github.com/ToastedNub/Meme-Corrector) will change the names of the memes so they don't try to replace any other memes (READ THE README)
 
 [REQUEST A SUBREDDIT HERE](https://discord.gg/n44zjAr6RV)
 # You need [winrar](https://www.win-rar.com/postdownload.html) to extract these if you don't already have it!
