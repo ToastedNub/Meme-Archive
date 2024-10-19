@@ -1,5 +1,5 @@
 # Meme-Archive
-WARNING: There are 25gb+ of reddit memes here!
+WARNING: There are 50gb+ of reddit memes here!
 These are downloaded from subreddits, the folders are named whatever the subreddet they are from is named.
 
 # THIS IS EVERY SINGLE VIDEO FROM EACH LISTED SUBREDDIT! (all of the ones under 3 minutes in length)
