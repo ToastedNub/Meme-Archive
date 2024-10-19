@@ -5,6 +5,9 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 # THIS IS EVERY SINGLE VIDEO FROM EACH LISTED SUBREDDIT! (all of the ones under 3 minutes in length)
  - THESE WILL BE UPDATED EVERY SO OFTEN, THERE IS NO SPICIFIC TIME OR DAY THAT I WILL UPDATE THESE!
 
+
+# [If you want a script that will change the names of the memes so that nothing has the same name and tries to replace another meme (READ THE README)](https://github.com/ToastedNub/Meme-Corrector)
+
 [REQUEST A SUBREDDIT HERE](https://discord.gg/n44zjAr6RV)
 # You need [winrar](https://www.win-rar.com/postdownload.html) to extract these if you don't already have it!
  - The ones with links (the blue words) are the ones that are ready to be downloaded (the other ones are either unfinished or being updated)
