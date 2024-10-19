@@ -2,7 +2,7 @@
 WARNING: There are 25gb+ of reddit memes here!
 These are downloaded from subreddits, the folders are named whatever the subreddet they are from is named.
 
-# THIS IS EVERY SINGLE VIDEO FROM EACH SUBREDDIT!
+# THIS IS EVERY SINGLE VIDEO FROM EACH LISTED SUBREDDIT!
  - The ones with links (the blue words) are the ones that are ready to be downloaded (the other ones are either unfinished or being updated)
  - funny
  - funnyvideos
