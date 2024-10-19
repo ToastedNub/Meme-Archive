@@ -7,6 +7,6 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - funny
  - funnyvideos
  - MemeVideos
- - [UnusualVideos](https://drive.google.com/file/d/1MAWr8lOaO1x4t5Hh2hhQk8q6VAkZrWT_/view?usp=sharing)
+ - [UnusualVideos](https://drive.google.com/file/d/1MAWr8lOaO1x4t5Hh2hhQk8q6VAkZrWT_/view?usp=sharing) 7.67GB
  - cursed_videomemes
  - discordVideos
