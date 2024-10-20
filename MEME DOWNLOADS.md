@@ -11,7 +11,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 [REQUEST A SUBREDDIT HERE](https://discord.gg/n44zjAr6RV)
 # You need [winrar](https://www.win-rar.com/postdownload.html) to extract these if you don't already have it!
  - The ones with links (the blue words) are the ones that are ready to be downloaded (the other ones are either unfinished or being updated)
-# COMBINED SIZE 53.07GB, 11,608 VIDEOS
+# COMBINED SIZE 53.09GB, 11,621 VIDEOS
  - [funny](https://drive.google.com/file/d/16y3ua1zHKNMBckDFzIiULY6IpYbSAIvn/view?usp=sharing) 3.84GB, 394 Videos
  - [funnyvideos](https://drive.google.com/file/d/1Lr8PPtq4ReqSl5Jjd89XTQPICJandljy/view?usp=sharing) 11.50GB, 1,599 Videos
  - [MemeVideos](https://drive.google.com/file/d/1Zy8xcfT1-r29hNGI8ptdDaOyuxjGBDrb/view?usp=sharing) 6.58GB, 1,925 Videos
@@ -19,7 +19,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [cursed_videomemes](https://drive.google.com/file/d/1d74Cicv9JjlCJCZeK3AmKLduHrMCpINH/view?usp=sharing) 14.50GB, 3,811 Videos
  - [discordVideos](https://drive.google.com/file/d/1gwxLvVbZ5qug5v4PR5QWQuw2LzkMAmFt/view?usp=sharing) 6.80GB, 1,923 Videos
  - [Discordmemes](https://drive.google.com/file/d/1nZA_wr_BDN90HXMZJBuocDwFZESFBQRy/view?usp=sharing) 1.28GB, 485 Videos
- - dank_meme GB,  Videos
+ - [dank_meme](https://drive.google.com/file/d/1InOTqE0AmBWgieLHlYIoNM2C83E1UkNp/view?usp=sharing) 24.9MB, 13 Videos
  - memes GB,  Videos
 
 
