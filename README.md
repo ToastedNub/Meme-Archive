@@ -22,7 +22,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
    
  - cursed_videomemes [VIDEOS - 3,811 - 14.50GB](https://drive.google.com/file/d/1d74Cicv9JjlCJCZeK3AmKLduHrMCpINH/view?usp=sharing) - PICTURES - NONE - [GIFS - 2 - 13MB](https://drive.google.com/file/d/186Q5lqQNIXwZfp4eaKa3MQU3WjIGjEtR/view?usp=sharing)
    
- - discordVideos [VIDEOS - 1,923 - 6.80GB](https://drive.google.com/file/d/1gwxLvVbZ5qug5v4PR5QWQuw2LzkMAmFt/view?usp=sharing)
+ - discordVideos [VIDEOS - 1,923 - 6.80GB](https://drive.google.com/file/d/1gwxLvVbZ5qug5v4PR5QWQuw2LzkMAmFt/view?usp=sharing) - PICTURES - NONE - GIFS - NONE
    
  - Discordmemes [VIDEOS - 481 - 1.28GB](https://drive.google.com/file/d/1nZA_wr_BDN90HXMZJBuocDwFZESFBQRy/view?usp=sharing)
    
