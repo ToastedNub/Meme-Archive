@@ -11,8 +11,8 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 [REQUEST A SUBREDDIT HERE](https://discord.gg/n44zjAr6RV)
 # You need [winrar](https://www.win-rar.com/postdownload.html) to extract these if you don't already have it!
  - The ones with links (the blue words) are the ones that are ready to be downloaded (the other ones are either unfinished or being updated)
-# VIDEOS - 11,654, 52.4GB
- - (SubReddit, FileCount - Size)
+# VIDEOS - 11,654 - 52.4GB
+ - (SubReddit, FileCount, Size)
  - [funny, 394, 3.85GB](https://drive.google.com/file/d/16y3ua1zHKNMBckDFzIiULY6IpYbSAIvn/view?usp=sharing)
  - [funnyvideos, 1,599, 11.50GB](https://drive.google.com/file/d/1Lr8PPtq4ReqSl5Jjd89XTQPICJandljy/view?usp=sharing)
  - [MemeVideos, 1,925, 6.58GB](https://drive.google.com/file/d/1Zy8xcfT1-r29hNGI8ptdDaOyuxjGBDrb/view?usp=sharing)
