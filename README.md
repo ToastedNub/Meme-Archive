@@ -19,23 +19,22 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [cursed_videomemes](https://drive.google.com/file/d/1d74Cicv9JjlCJCZeK3AmKLduHrMCpINH/view?usp=sharing)
  - [discordVideos](https://drive.google.com/file/d/1gwxLvVbZ5qug5v4PR5QWQuw2LzkMAmFt/view?usp=sharing)
  - [Discordmemes](https://drive.google.com/file/d/1nZA_wr_BDN90HXMZJBuocDwFZESFBQRy/view?usp=sharing)
- - dank_meme
- - memes
+ - [dank_meme](https://drive.google.com/file/d/1InOTqE0AmBWgieLHlYIoNM2C83E1UkNp/view?usp=sharing)
+ - [memes](https://drive.google.com/file/d/1kliviF-0n8dvTjKQe4nq7CPWRGuhIln4/view?usp=sharing)
 
- - # PICTURES
+ - # PICTURES -  2,322, 1.1GB
  - [funny](https://drive.google.com/file/d/1b4rW9cM9hm4O6PYQuegYfMtWG3ERjGSZ/view?usp=sharing)
  - [MemeVideos](https://drive.google.com/file/d/1kYxXbs2weucFMxundMeJOpps7K2M7tUO/view?usp=sharing)
  - [Discordmemes](https://drive.google.com/file/d/1cm0xu7CR5EgT_v_-PP1whxZoh2PFz6dL/view?usp=sharing)
- - dank_meme
- - memes
+ - [dank_meme](https://drive.google.com/file/d/1VeV1g756Xwa0TgnsG9TVStgr2BmtkkI8/view?usp=sharing)
+ - [memes](https://drive.google.com/file/d/1isLo4IYlY6Dx6GVQ_OS6Y-TXg8wucml4/view?usp=sharing)
 
-# GIFS
+# GIFS - 56, 292MB
  - [funny](https://drive.google.com/file/d/1NysLcyzfUwV5X5xdo6FIO0VJ9oUwvOxw/view?usp=sharing)
  - [MemeVideos](https://drive.google.com/file/d/1iYGKUPIBW0OgDKWhEXINR10kU7vmtcSa/view?usp=sharing)
  - [cursed_videomemes](https://drive.google.com/file/d/186Q5lqQNIXwZfp4eaKa3MQU3WjIGjEtR/view?usp=sharing)
  - [Discordmemes](https://drive.google.com/file/d/1FIvHj8-j8lUUhKBPZBFfquKb4-eY1vAO/view?usp=sharing)
- - dank_meme
- - memes
+ - [memes](https://drive.google.com/file/d/1DaqFBYWpstbry7MpaO7wLRS6I6VZetUk/view?usp=sharing)
 
 # Subreddits in queue
  - None
