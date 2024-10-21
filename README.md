@@ -11,7 +11,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 [REQUEST A SUBREDDIT HERE](https://discord.gg/n44zjAr6RV)
 # You need [winrar](https://www.win-rar.com/postdownload.html) to extract these if you don't already have it!
  - The ones with links (the blue words) are the ones that are ready to be downloaded (the other ones are either unfinished or being updated)
-# VIDEOS - 11,654, 52.4GB
+# VIDEOS - 11,654, 52.4GB - (SubReddit, FileCount, Size)
  - [funny, 394, 3.85GB](https://drive.google.com/file/d/16y3ua1zHKNMBckDFzIiULY6IpYbSAIvn/view?usp=sharing)
  - [funnyvideos, 1,599, 11.50GB](https://drive.google.com/file/d/1Lr8PPtq4ReqSl5Jjd89XTQPICJandljy/view?usp=sharing)
  - [MemeVideos, 1,925, 6.58GB](https://drive.google.com/file/d/1Zy8xcfT1-r29hNGI8ptdDaOyuxjGBDrb/view?usp=sharing)
@@ -22,14 +22,14 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [dank_meme, 13, 25MB](https://drive.google.com/file/d/1InOTqE0AmBWgieLHlYIoNM2C83E1UkNp/view?usp=sharing)
  - [memes, 33, 58MB](https://drive.google.com/file/d/1kliviF-0n8dvTjKQe4nq7CPWRGuhIln4/view?usp=sharing)
 
- - # PICTURES -  2,322, 1.1GB
+ - # PICTURES -  2,322, 1.1GB - (SubReddit, FileCount, Size)
  - [funny, 213, 316MB](https://drive.google.com/file/d/1b4rW9cM9hm4O6PYQuegYfMtWG3ERjGSZ/view?usp=sharing)
  - [MemeVideos, 1, 40KB](https://drive.google.com/file/d/1kYxXbs2weucFMxundMeJOpps7K2M7tUO/view?usp=sharing)
  - [Discordmemes, 353, 104MB](https://drive.google.com/file/d/1cm0xu7CR5EgT_v_-PP1whxZoh2PFz6dL/view?usp=sharing)
  - [dank_meme, 1,286, 430MB](https://drive.google.com/file/d/1VeV1g756Xwa0TgnsG9TVStgr2BmtkkI8/view?usp=sharing)
  - [memes, 822, 397MB](https://drive.google.com/file/d/1isLo4IYlY6Dx6GVQ_OS6Y-TXg8wucml4/view?usp=sharing)
 
-# GIFS - 56, 292MB
+# GIFS - 56, 292MB - (SubReddit, FileCount, Size)
  - [funny, 1, 568KB](https://drive.google.com/file/d/1NysLcyzfUwV5X5xdo6FIO0VJ9oUwvOxw/view?usp=sharing)
  - [MemeVideos, 1, 148KB](https://drive.google.com/file/d/1iYGKUPIBW0OgDKWhEXINR10kU7vmtcSa/view?usp=sharing)
  - [cursed_videomemes, 2, 13MB](https://drive.google.com/file/d/186Q5lqQNIXwZfp4eaKa3MQU3WjIGjEtR/view?usp=sharing)
