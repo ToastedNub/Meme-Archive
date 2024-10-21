@@ -23,7 +23,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [memes, 33, 58MB](https://drive.google.com/file/d/1kliviF-0n8dvTjKQe4nq7CPWRGuhIln4/view?usp=sharing)
 
  - # PICTURES -  2,322, 1.1GB
- - [funny, 213, 316MB(https://drive.google.com/file/d/1b4rW9cM9hm4O6PYQuegYfMtWG3ERjGSZ/view?usp=sharing)
+ - [funny, 213, 316MB](https://drive.google.com/file/d/1b4rW9cM9hm4O6PYQuegYfMtWG3ERjGSZ/view?usp=sharing)
  - [MemeVideos, 1, 40KB](https://drive.google.com/file/d/1kYxXbs2weucFMxundMeJOpps7K2M7tUO/view?usp=sharing)
  - [Discordmemes, 353, 104MB](https://drive.google.com/file/d/1cm0xu7CR5EgT_v_-PP1whxZoh2PFz6dL/view?usp=sharing)
  - [dank_meme, 1,286, 430MB](https://drive.google.com/file/d/1VeV1g756Xwa0TgnsG9TVStgr2BmtkkI8/view?usp=sharing)
