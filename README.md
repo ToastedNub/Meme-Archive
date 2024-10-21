@@ -25,12 +25,4 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 
 
 # Subreddits in queue
- - 4chan
- - NobodyAsked
- - MemeEconemy
- - PrequelMemes
- - wholesomememes
- - teenagers
- - Animemes
- - goodanimemes
- - whenthe
+ - 
