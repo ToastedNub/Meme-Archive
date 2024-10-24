@@ -30,7 +30,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [dank_meme - 13 - 25MB](https://drive.google.com/file/d/1InOTqE0AmBWgieLHlYIoNM2C83E1UkNp/view?usp=sharing)
  - [memes - 33 - 58MB](https://drive.google.com/file/d/1kliviF-0n8dvTjKQe4nq7CPWRGuhIln4/view?usp=sharing)
 
-# PICTURES -  2,322 - 1.1GB
+# PICTURES -  2,358 - 1.2GB
  -  (SubReddit - FileCount - Size)
  - [funny - 213 - 316MB](https://drive.google.com/file/d/1b4rW9cM9hm4O6PYQuegYfMtWG3ERjGSZ/view?usp=sharing)
  - [MemeVideos - 1 - 40KB](https://drive.google.com/file/d/1kYxXbs2weucFMxundMeJOpps7K2M7tUO/view?usp=sharing)
@@ -38,7 +38,7 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [dank_meme - 1,286 - 430MB](https://drive.google.com/file/d/1VeV1g756Xwa0TgnsG9TVStgr2BmtkkI8/view?usp=sharing)
  - [memes - 822 - 397MB](https://drive.google.com/file/d/1isLo4IYlY6Dx6GVQ_OS6Y-TXg8wucml4/view?usp=sharing)
 
-# GIFS - 56 - 292MB
+# GIFS - 57 - 280MB
  - (SubReddit - FileCount - Size)
  - [funny - 1 - 568KB](https://drive.google.com/file/d/1NysLcyzfUwV5X5xdo6FIO0VJ9oUwvOxw/view?usp=sharing)
  - [MemeVideos - 1 - 148KB](https://drive.google.com/file/d/1iYGKUPIBW0OgDKWhEXINR10kU7vmtcSa/view?usp=sharing)
