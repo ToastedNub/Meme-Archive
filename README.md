@@ -1,3 +1,6 @@
+# [CLICK THIS TO SEE THE MESSAGE LOG INFO](https://github.com/ToastedNub/LogMessages)
+# [CLICK THIS TO SEE MAIN SERVER INFO](https://github.com/ToastedNub/Servers-that-I-manage)
+
 # Meme-Archive
 WARNING: There are 50gb+ of reddit memes here!
 These are downloaded from subreddits, the folders are named whatever the subreddet they are from is named.
