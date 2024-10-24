@@ -5,9 +5,26 @@
 WARNING: There are 50gb+ of reddit memes here!
 These are downloaded from subreddits, the folders are named whatever the subreddet they are from is named.
 
- - [Main Server](https://discord.gg/n44zjAr6RV)
+# HOW TO REQUEST
+ - Join the [Discord](https://discord.gg/n44zjAr6RV)
+ - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
 
- - [NSFW Server](https://discord.gg/qAupaGXRYt)
+ - ALL COMMANDS MUST BE SENT TO THE NORMAL BOTS **([Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot), [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot), [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot), [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot), [BeanBot](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot), [BeanBot 2](https://discord.com/oauth2/authorize?client_id=1204913090706022400&permissions=116736&integration_type=0&scope=bot), [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot))**, THE NSFW BOTS **([Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot), [Bob](https://discord.com/oauth2/authorize?client_id=1298619917784059957&permissions=51200&integration_type=0&scope=bot), [Wilbo](https://discord.com/oauth2/authorize?client_id=1298907769558274159&permissions=51200&integration_type=0&scope=bot))** DO NOT FORWARD COMMANDS!
+
+ - If you are sending a Reddit User link or a Subreddit link, then you can skip to the SEND COMMAND info of HOW TO REQUEST
+
+ - Send a Video or Gif somewhere on Discord
+
+# SEND COMMAND
+
+ - Rick click the Video or Gif you just send, and copy the link to it
+
+ - DM one of the AI Bots with the !SEND command, and the link you just copied, example of the command below
+
+ - ALL REQUESTS STAY ANONYMOUS!
+
+# COMMAND EXAMPLE
+ - !SEND https://cdn.discordapp.com/attachments/1282621589501902858/1297115961094045778/sfrh95.mp4?ex=6716bb20&is=671569a0&hm=390ced0ff2ee1e820f26fa79381cd58a24196e29d154c24b0008cc04c1c15b62&
 
 # THIS IS EVERY SINGLE VIDEO FROM EACH LISTED SUBREDDIT! (all of the ones under 3 minutes in length)
  - THESE WILL BE UPDATED EVERY SO OFTEN, THERE IS NO SPICIFIC TIME OR DAY THAT I WILL UPDATE THESE!
@@ -45,27 +62,6 @@ These are downloaded from subreddits, the folders are named whatever the subredd
  - [cursed_videomemes - 2 - 13MB](https://drive.google.com/file/d/186Q5lqQNIXwZfp4eaKa3MQU3WjIGjEtR/view?usp=sharing)
  - [Discordmemes - 11 - 17MB](https://drive.google.com/file/d/1FIvHj8-j8lUUhKBPZBFfquKb4-eY1vAO/view?usp=sharing)
  - [memes - 41 - 260MB](https://drive.google.com/file/d/1DaqFBYWpstbry7MpaO7wLRS6I6VZetUk/view?usp=sharing)
-
-# HOW TO REQUEST
- - Join the [Discord](https://discord.gg/n44zjAr6RV)
- - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
-
- - ALL COMMANDS MUST BE SENT TO THE NORMAL BOTS **([Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot), [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot), [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot), [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot), [BeanBot](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot), [BeanBot 2](https://discord.com/oauth2/authorize?client_id=1204913090706022400&permissions=116736&integration_type=0&scope=bot), [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot))**, THE NSFW BOTS **([Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot), [Bob](https://discord.com/oauth2/authorize?client_id=1298619917784059957&permissions=51200&integration_type=0&scope=bot), [Wilbo](https://discord.com/oauth2/authorize?client_id=1298907769558274159&permissions=51200&integration_type=0&scope=bot))** DO NOT FORWARD COMMANDS!
-
- - If you are sending a Reddit User link or a Subreddit link, then you can skip to the SEND COMMAND info of HOW TO REQUEST
-
- - Send a Video or Gif somewhere on Discord
-
-# SEND COMMAND
-
- - Rick click the Video or Gif you just send, and copy the link to it
-
- - DM one of the AI Bots with the !SEND command, and the link you just copied, example of the command below
-
- - ALL REQUESTS STAY ANONYMOUS!
-
-# COMMAND EXAMPLE
- - !SEND https://cdn.discordapp.com/attachments/1282621589501902858/1297115961094045778/sfrh95.mp4?ex=6716bb20&is=671569a0&hm=390ced0ff2ee1e820f26fa79381cd58a24196e29d154c24b0008cc04c1c15b62&
 
 # Subreddits in queue
  - None
