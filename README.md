@@ -7,7 +7,6 @@ These are downloaded from subreddits, the folders are named whatever the subredd
 
 # HOW TO REQUEST
  - Join the [Discord](https://discord.gg/n44zjAr6RV)
- - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
 
  - ALL COMMANDS MUST BE SENT TO THE NORMAL BOTS **([Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot), [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot), [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot), [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot), [BeanBot](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot), [BeanBot 2](https://discord.com/oauth2/authorize?client_id=1204913090706022400&permissions=116736&integration_type=0&scope=bot), [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot))**, THE NSFW BOTS **([Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot), [Bob](https://discord.com/oauth2/authorize?client_id=1298619917784059957&permissions=51200&integration_type=0&scope=bot), [Wilbo](https://discord.com/oauth2/authorize?client_id=1298907769558274159&permissions=51200&integration_type=0&scope=bot))** DO NOT FORWARD COMMANDS!
 
